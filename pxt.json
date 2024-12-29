@@ -1,0 +1,8 @@
+{
+    "name": "hex-converter-minecraft",
+    "description": "",
+    "files": [
+        "main.ts",
+        "README.md"
+    ]
+}
